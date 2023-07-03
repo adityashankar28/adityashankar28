@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm ADITYA SHANKAR</h1>
 <h3 align="center">An Aspiring Data Analyst from India</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*LEH5tUEQReWe8Iu-UEV3Pg.gif" alt="Image Description">
+
 
 
 - 🔭My Skills are **Data Analysis, Data Visualization, Storytelling with Data, Solving Business Problems with Data Analysis.**
