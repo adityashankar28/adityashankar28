@@ -10,7 +10,7 @@
 
 - Data Visualization Portfolio are available at [https://www.novypro.com/profile_projects/adityashankar](https://www.novypro.com/profile_projects/adityashankar)
 
-- 📝 You can view my LinkedIn Profile here [https://www.linkedin.com/in/aditya-shankar-076152169/](https://www.linkedin.com/in/aditya-shankar-076152169/)
+- 📝 You can view my LinkedIn Profile here [https://www.linkedin.com/in/adityashankar28/)
 
 - 💬 Feel free to check **out my Projects.**
 
